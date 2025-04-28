@@ -14,4 +14,4 @@ Open and run all cells in the notebook `yolov10-v11-v12-tracking.ipynb`.
    - The output videos will be saved after execution.
 
 ## License
-MIT License 
+MIT License  
